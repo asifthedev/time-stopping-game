@@ -9,6 +9,8 @@ export default function Player() {
     nameInput.current.value = ""
   }
 
+  document.getElementByNam
+
   return (
     <section id="player">
       <h2>Welcome {playerName ?? "Unknown"} entity</h2>
