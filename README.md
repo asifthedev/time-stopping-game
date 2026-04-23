@@ -15,6 +15,12 @@ This interactive game tests players' timing precision across four difficulty lev
 - Result modal with game outcome display
 - Responsive, modern design with gradient styling
 
+## 🎯 Live Demo
+
+**Play the game now:** [https://time-stopping-game.vercel.app/](https://time-stopping-game.vercel.app/)
+
+![Game Screenshot](docs/images/screenshot.png)
+
 ## Key Learning Outcomes
 
 ### Advanced React Concepts
